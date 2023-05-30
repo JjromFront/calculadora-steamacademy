@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-steamacademy",
+  "version": "1.0.1",
+  "description": "Calculador\b\bEcuaciones matematicas complejas para su uso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Calculadora",
+    "suma",
+    "resta"
+  ],
+  "author": "l1ghtness",
+  "license": "MIT"
+}
